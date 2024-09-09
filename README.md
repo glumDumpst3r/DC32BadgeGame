@@ -1,17 +1,17 @@
 ## DEFCON 32 Badge Game
-#Kelsey's version
+# Kelsey's version
 
-##twitterForGameboy
+## twitterForGameboy
 
 Project files for DEFCON 32 Badge Game (Kelsey's Version) to use with GB Studio.
 
 ## About (twitter for Gameboy)
 Twitter for gameboy is a social spin on the Defcon 32 Badge game, incorporating different elements of infosec culture. 
 
-###Currently, 
+### Currently, 
 it's a walkable, interactive timeline. It's a little bit cute art. It's a cookbook. It's a place to learn and a social feed you can actually get to the end of, and then go on with your life. 
 
-###Coming Soon, 
+### Coming Soon, 
 -educational content from the villages and individuals
 -learning resources for noobs
 - challenges / contests
@@ -19,12 +19,12 @@ it's a walkable, interactive timeline. It's a little bit cute art. It's a cookbo
 - interactive short stories and poems
 - real democracy 
 
-###To get to the "feed",
+### To get to the "feed",
 just use the toilet in your hotel room or find the twitter option in your start menu. 
 
 This is the safest social media network ever because if you make a post it could take several days before anyone sees it. 
 
-###In the future,
+### In the future,
 There will be multiple ways this game is made socially interactive. Think leaving notes for one another, or collaborative art. The input methods for this will be through github, or by scanning QR codes on your phone to take you elsewhere. 
 
 I encourage others to add their changes within this repository so that we can grow the game as a community. 

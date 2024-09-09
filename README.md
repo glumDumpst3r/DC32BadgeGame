@@ -11,6 +11,11 @@ Twitter for gameboy is a social spin on the Defcon 32 Badge game, incorporating 
 ### Currently, 
 it's a walkable, interactive timeline. It's a little bit cute art. It's a cookbook. It's a place to learn and a social feed you can actually get to the end of, and then go on with your life. 
 
+### To get to the "feed",
+just use the toilet in your hotel room or find the twitter option in your start menu. 
+
+This is the safest social media network ever because if you make a post it could take several days before anyone sees it. 
+
 ### Coming Soon, 
 - educational content from the villages and individuals
 - resources for noobs
@@ -21,15 +26,13 @@ it's a walkable, interactive timeline. It's a little bit cute art. It's a cookbo
 - events calendar
 - community bulletin board
 
-### To get to the "feed",
-just use the toilet in your hotel room or find the twitter option in your start menu. 
-
-This is the safest social media network ever because if you make a post it could take several days before anyone sees it. 
-
 ### In the future,
 There will be multiple ways this game is made socially interactive. Think leaving notes for one another, or collaborative art. The input methods for this will be through github, or by scanning QR codes on your phone to take you elsewhere. 
 
 I encourage others to add their changes within this repository so that we can grow the game as a community. 
+
+### Be social
+The /social folder currently has 2 ways you can easily get social with the game already 
 
 Despite the name, you don't need a twitter. Github is your twitter now. Add your pixel art here for me to incorporate into the game, or design your own space / scene in the GB Studio! leave a tweet, or simply just leave a short note for a friend in the document made for that. Finally, a way you can earn your green squares that you actually feel good about.  
 

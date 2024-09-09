@@ -3,11 +3,12 @@
 
 - [ ] Tweet based off of a real tweet
 - [ ] Tweet based off of something else
-[ ] link to original source if applicable
+
+[] link to original source if applicable
 
 OR
 
-- [ ] Fresh Content
+- [ ] This is Fresh Content
 
 ## REPLACE INFO BELOW WITH YOUR OWN 
 

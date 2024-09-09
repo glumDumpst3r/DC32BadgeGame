@@ -3,8 +3,13 @@
 
 - [ ] Tweet based off of a real tweet
 - [ ] Tweet based off of something else
+[ ] link to original source if applicable
 
-[link to original]
+OR
+
+- [ ] Fresh Content
+
+## REPLACE INFO BELOW WITH YOUR OWN 
 
 [insert display name]
 [insert handle]

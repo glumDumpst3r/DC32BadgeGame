@@ -13,7 +13,9 @@ OR
 ## REPLACE INFO BELOW WITH YOUR OWN 
 
 [insert display name]
+
 [insert handle]
+
 [insert tweet content, of a customary length]
 
 [external link or fun ideas for our consideration]

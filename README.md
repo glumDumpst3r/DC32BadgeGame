@@ -1,5 +1,5 @@
 ## DEFCON 32 Badge Game
-# Kelsey's version
+### Kelsey's version
 
 ## twitterForGameboy
 

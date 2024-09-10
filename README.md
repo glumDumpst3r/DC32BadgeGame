@@ -5,6 +5,9 @@
 
 Project files for DEFCON 32 Badge Game (Kelsey's Version) to use with GB Studio.
 
+Save this file to you ROMs folder and play on the defcon 32 badge or gameboy color emulator of your choice. 
+https://github.com/glumDumpst3r/twitterForGameboy/blob/main/twitterForGameboy20240908.gbc
+
 ## About (twitter for Gameboy)
 Twitter for gameboy is a social spin on the Defcon 32 Badge game, incorporating different elements of infosec culture. 
 

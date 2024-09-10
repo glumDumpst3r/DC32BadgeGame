@@ -5,6 +5,10 @@
 
 Project files for DEFCON 32 Badge Game (Kelsey's Version) to use with GB Studio.
 
+### play online
+https://x.com/glumGPT/status/1833338545144238589
+
+### play locally
 Save this file to you ROMs folder and play on the defcon 32 badge or gameboy color emulator of your choice. 
 https://github.com/glumDumpst3r/twitterForGameboy/blob/main/twitterForGameboy20240908.gbc
 
